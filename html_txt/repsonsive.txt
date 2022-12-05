@@ -1,0 +1,8 @@
+Media queries: là những chuổi truy vấn cho từng vùng để viết các loại CSS tùy theo các thiết bị
++ PC >=1024px
+
++ TABLET >= 740px &<1024px
+
++ MOBILE > 740px 
+
+break point : Điểm chuyển từ các dạng mạng hình.
